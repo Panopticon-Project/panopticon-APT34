@@ -15,3 +15,5 @@ http://www.securityweek.com/iranian-cyberspies-exploit-recently-patched-office-f
 www.securityweek.com/iranian-hackers-target-iis-web-servers-new-backdoor
 
 https://www.securityweek.com/iranian-hackers-use-new-trojan-recent-attacks
+
+https://www.securityweek.com/iran-linked-hackers-adopt-new-data-exfiltration-methods
