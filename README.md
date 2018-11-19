@@ -19,3 +19,5 @@ https://www.securityweek.com/iranian-hackers-use-new-trojan-recent-attacks
 https://www.securityweek.com/iran-linked-hackers-adopt-new-data-exfiltration-methods
 
 https://www.securityweek.com/iranian-hackers-improve-recently-used-cyber-weapon
+
+https://www.securityweek.com/iran-linked-hackers-use-just-time-creation-weaponized-attack-docs
