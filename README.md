@@ -21,3 +21,5 @@ https://www.securityweek.com/iran-linked-hackers-adopt-new-data-exfiltration-met
 https://www.securityweek.com/iranian-hackers-improve-recently-used-cyber-weapon
 
 https://www.securityweek.com/iran-linked-hackers-use-just-time-creation-weaponized-attack-docs
+
+https://www.securityweek.com/iran-linked-hackers-use-array-tools-steal-data-fireeye
