@@ -25,3 +25,5 @@ https://www.securityweek.com/iran-linked-hackers-use-just-time-creation-weaponiz
 https://www.securityweek.com/iran-linked-hackers-use-array-tools-steal-data-fireeye
 
 https://www.zdnet.com/article/source-code-of-iranian-cyber-espionage-tools-leaked-on-telegram/
+
+https://malware-research.org/apt34-hacking-tools-leak/
