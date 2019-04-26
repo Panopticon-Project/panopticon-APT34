@@ -27,3 +27,5 @@ https://www.securityweek.com/iran-linked-hackers-use-array-tools-steal-data-fire
 https://www.zdnet.com/article/source-code-of-iranian-cyber-espionage-tools-leaked-on-telegram/
 
 https://malware-research.org/apt34-hacking-tools-leak/
+
+https://www.securityweek.com/iranian-hackers-heavily-reliant-dns-tunneling
