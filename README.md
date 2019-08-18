@@ -35,3 +35,5 @@ https://www.zdnet.com/article/new-iranian-hacking-tool-leaked-on-telegram/
 https://www.securityweek.com/iranian-hackers-use-new-malware-recent-attacks
 
 https://securityaffairs.co/wordpress/88737/apt/apt34-cyberspionage-linkedin.html
+
+https://securityaffairs.co/wordpress/89586/apt/oilrig-apt-techniques-evolution.html
