@@ -39,3 +39,11 @@ https://securityaffairs.co/wordpress/88737/apt/apt34-cyberspionage-linkedin.html
 https://securityaffairs.co/wordpress/89586/apt/oilrig-apt-techniques-evolution.html
 
 https://www.emanueledelucia.net/a-dive-into-apt34-aka-oilrig-aka-cobalt-gypsy-twoface-webshell/
+
+https://www.wired.com/story/apt-34-iranian-hackers-critical-infrastructure-companies/
+
+https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-november-helix-kitten/
+
+https://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html
+
+https://www.cyberdefensemagazine.com/new-apt34-campaign-uses-linkedin-to-deliver-fresh-malware/
