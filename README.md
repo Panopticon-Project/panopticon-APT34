@@ -47,3 +47,5 @@ https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-no
 https://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html
 
 https://www.cyberdefensemagazine.com/new-apt34-campaign-uses-linkedin-to-deliver-fresh-malware/
+
+https://www.scmagazineuk.com/glimpse-malware-uses-alternative-dns-evade-detection/article/1665336
