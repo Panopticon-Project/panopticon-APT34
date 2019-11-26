@@ -49,3 +49,5 @@ https://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-i
 https://www.cyberdefensemagazine.com/new-apt34-campaign-uses-linkedin-to-deliver-fresh-malware/
 
 https://www.scmagazineuk.com/glimpse-malware-uses-alternative-dns-evade-detection/article/1665336
+
+https://atlas.mindmup.com/2019/11/4e031c500f9211ea88b50da0aecc0e17/oilrig_apt34_a_k_a_irn2_helix_kitt/index.html
