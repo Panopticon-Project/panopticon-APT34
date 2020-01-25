@@ -53,3 +53,5 @@ https://www.scmagazineuk.com/glimpse-malware-uses-alternative-dns-evade-detectio
 https://atlas.mindmup.com/2019/11/4e031c500f9211ea88b50da0aecc0e17/oilrig_apt34_a_k_a_irn2_helix_kitt/index.html
 
 https://www.securityweek.com/iran-linked-zerocleare-wiper-targets-energy-industrial-sectors-middle-east
+
+https://securityboulevard.com/2019/12/poison-frog-malware-samples-reveal-oilrigs-sloppiness
