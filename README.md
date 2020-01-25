@@ -55,3 +55,5 @@ https://atlas.mindmup.com/2019/11/4e031c500f9211ea88b50da0aecc0e17/oilrig_apt34_
 https://www.securityweek.com/iran-linked-zerocleare-wiper-targets-energy-industrial-sectors-middle-east
 
 https://securityboulevard.com/2019/12/poison-frog-malware-samples-reveal-oilrigs-sloppiness
+
+https://twitter.com/thegrugq/status/1214079839797252097
