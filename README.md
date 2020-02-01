@@ -57,3 +57,5 @@ https://www.securityweek.com/iran-linked-zerocleare-wiper-targets-energy-industr
 https://securityboulevard.com/2019/12/poison-frog-malware-samples-reveal-oilrigs-sloppiness
 
 https://twitter.com/thegrugq/status/1214079839797252097
+
+https://www.oodaloop.com/briefs/2020/01/31/iranian-hackers-target-us-government-workers-in-new-campaign/
