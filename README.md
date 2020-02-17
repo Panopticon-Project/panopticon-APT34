@@ -28,6 +28,7 @@ https://www.zdnet.com/article/source-code-of-iranian-cyber-espionage-tools-leake
 
 https://malware-research.org/apt34-hacking-tools-leak/
 
+https://www.securityweek.com/iranian-hackers-exploited-enterprise-vpn-flaws-major-campaign
 https://www.securityweek.com/iranian-hackers-heavily-reliant-dns-tunneling
 
 https://www.zdnet.com/article/new-iranian-hacking-tool-leaked-on-telegram/
