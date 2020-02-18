@@ -60,3 +60,5 @@ https://securityboulevard.com/2019/12/poison-frog-malware-samples-reveal-oilrigs
 https://twitter.com/thegrugq/status/1214079839797252097
 
 https://www.oodaloop.com/briefs/2020/01/31/iranian-hackers-target-us-government-workers-in-new-campaign/
+
+https://securelist.com/oilrigs-poison-frog/95490/?utm_source=newsletter&utm_medium=Email&utm_campaign=sl%20weekly%20digest
