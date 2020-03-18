@@ -66,3 +66,5 @@ https://securelist.com/oilrigs-poison-frog/95490/?utm_source=newsletter&utm_medi
 https://securityaffairs.co/wordpress/98802/apt/karkoff-malware-lebanon.html
 
 https://marcoramilli.com/2019/04/23/apt34-webmask-project/?utm_source=twitter&utm_medium=social&utm_campaign=ReviveOldPost
+
+https://yoroi.company/research/karkoff-2020-a-new-apt34-espionage-operation-involves-lebanon-government/
