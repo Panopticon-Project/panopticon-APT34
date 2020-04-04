@@ -68,3 +68,5 @@ https://securityaffairs.co/wordpress/98802/apt/karkoff-malware-lebanon.html
 https://marcoramilli.com/2019/04/23/apt34-webmask-project/?utm_source=twitter&utm_medium=social&utm_campaign=ReviveOldPost
 
 https://yoroi.company/research/karkoff-2020-a-new-apt34-espionage-operation-involves-lebanon-government/
+
+https://intezer.com/blog/apt/new-iranian-campaign-tailored-to-us-companies-uses-updated-toolset/
