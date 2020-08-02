@@ -70,3 +70,5 @@ https://marcoramilli.com/2019/04/23/apt34-webmask-project/?utm_source=twitter&ut
 https://yoroi.company/research/karkoff-2020-a-new-apt34-espionage-operation-involves-lebanon-government/
 
 https://intezer.com/blog/apt/new-iranian-campaign-tailored-to-us-companies-uses-updated-toolset/
+
+https://threatpost.com/oilrig-apt-unique-backdoor/157646/
