@@ -72,3 +72,5 @@ https://yoroi.company/research/karkoff-2020-a-new-apt34-espionage-operation-invo
 https://intezer.com/blog/apt/new-iranian-campaign-tailored-to-us-companies-uses-updated-toolset/
 
 https://threatpost.com/oilrig-apt-unique-backdoor/157646/
+
+https://unit42.paloaltonetworks.com/oilrig-novel-c2-channel-steganography/
