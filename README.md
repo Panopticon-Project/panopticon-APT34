@@ -74,3 +74,5 @@ https://intezer.com/blog/apt/new-iranian-campaign-tailored-to-us-companies-uses-
 https://threatpost.com/oilrig-apt-unique-backdoor/157646/
 
 https://unit42.paloaltonetworks.com/oilrig-novel-c2-channel-steganography/
+
+https://threatpost.com/oilrig-apt-unique-backdoor/157646/
