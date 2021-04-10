@@ -76,3 +76,5 @@ https://threatpost.com/oilrig-apt-unique-backdoor/157646/
 https://unit42.paloaltonetworks.com/oilrig-novel-c2-channel-steganography/
 
 https://threatpost.com/oilrig-apt-unique-backdoor/157646/
+
+https://thehackernews.com/2021/04/researchers-uncover-new-iranian-malware.html
