@@ -80,3 +80,7 @@ https://threatpost.com/oilrig-apt-unique-backdoor/157646/
 https://thehackernews.com/2021/04/researchers-uncover-new-iranian-malware.html
 
 https://research.checkpoint.com/2021/irans-apt34-returns-with-an-updated-arsenal/
+
+https://www.securityweek.com/chrysene-group-targets-ics-networks-middle-east-uk
+
+https://www.securityweek.com/five-threat-groups-target-industrial-systems-dragos
