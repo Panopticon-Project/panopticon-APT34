@@ -92,3 +92,5 @@ https://blog.talosintelligence.com/2018/11/dnspionage-campaign-targets-middle-ea
 https://www.securityweek.com/dnspionage-hackers-use-new-malware-recent-attacks
 
 https://blog.talosintelligence.com/2019/04/dnspionage-brings-out-karkoff.html
+
+https://www.cysecurity.news/2022/02/iranian-hackers-employed-new-marlin.html
