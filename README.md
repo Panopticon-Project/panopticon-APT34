@@ -1,5 +1,9 @@
 # panopticon-OilRig
 
+https://www.securityweek.com/chrysene-group-targets-ics-networks-middle-east-uk
+
+https://www.cyberscoop.com/greenbug-symantec-iran-hacking-pakistan/
+
 http://www.securityweek.com/iranian-cyberspy-groups-share-malware-code
 
 https://www.darkreading.com/attacks-breaches/malware-investigation-leads-to-sophisticated-mideast-threat-network/d/d-id/1330002?
