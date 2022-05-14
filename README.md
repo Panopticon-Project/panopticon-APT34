@@ -98,3 +98,5 @@ https://www.securityweek.com/dnspionage-hackers-use-new-malware-recent-attacks
 https://blog.talosintelligence.com/2019/04/dnspionage-brings-out-karkoff.html
 
 https://www.cysecurity.news/2022/02/iranian-hackers-employed-new-marlin.html
+
+https://www.securityweek.com/iran-linked-oilrig-apt-caught-using-new-backdoor
