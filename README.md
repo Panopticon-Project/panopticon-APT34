@@ -102,3 +102,5 @@ https://www.cysecurity.news/2022/02/iranian-hackers-employed-new-marlin.html
 https://www.securityweek.com/iran-linked-oilrig-apt-caught-using-new-backdoor
 
 https://blog.malwarebytes.com/threat-intelligence/2022/05/apt34-targets-jordan-government-using-new-saitama-backdoor/
+
+https://www.fortinet.com/blog/threat-research/please-confirm-you-received-our-apt
