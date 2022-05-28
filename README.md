@@ -106,3 +106,5 @@ https://blog.malwarebytes.com/threat-intelligence/2022/05/apt34-targets-jordan-g
 https://www.fortinet.com/blog/threat-research/please-confirm-you-received-our-apt
 
 https://www.reuters.com/technology/exclusive-russian-hackers-are-linked-new-brexit-leak-website-google-says-2022-05-25/
+
+https://www.sneakystrawhead.co.uk/
