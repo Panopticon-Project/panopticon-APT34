@@ -108,3 +108,5 @@ https://www.fortinet.com/blog/threat-research/please-confirm-you-received-our-ap
 https://www.reuters.com/technology/exclusive-russian-hackers-are-linked-new-brexit-leak-website-google-says-2022-05-25/
 
 https://www.sneakystrawhead.co.uk/
+
+https://x-junior.github.io/malware%20analysis/2022/06/24/Apt34.html
