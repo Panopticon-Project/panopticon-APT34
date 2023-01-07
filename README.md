@@ -112,3 +112,7 @@ https://www.sneakystrawhead.co.uk/
 https://x-junior.github.io/malware%20analysis/2022/06/24/Apt34.html
 
 https://www.hhs.gov/sites/default/files/iranian-threat-actors-and-healthcare.pdf
+
+https://twitter.com/pearswick/status/1611440182791897088
+
+https://www.reuters.com/world/europe/russian-hackers-targeted-us-nuclear-scientists-2023-01-06/
